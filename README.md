@@ -82,7 +82,7 @@ Build the application using the .NET CLI:
 dotnet build
 
 ##Running the Application
-You can run the Web application from Visual Studio.
+You can run the Application from Visual Studio.
 OR
 Run using the .NET CLI in the folder you have chosen when cloning
 
